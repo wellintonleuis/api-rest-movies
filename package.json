@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-movies",
+  "version": "1.0.0",
+  "description": "modelo consumo api rest movies",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wellintonleuis/api-rest-movies.git"
+  },
+  "author": "Wellinton Del Orbe <welllintonleuis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wellintonleuis/api-rest-movies/issues"
+  },
+  "homepage": "https://github.com/wellintonleuis/api-rest-movies#readme"
+}
